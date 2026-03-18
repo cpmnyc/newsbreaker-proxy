@@ -1,0 +1,12 @@
+{
+  "name": "newsbreaker-proxy",
+  "version": "1.0.0",
+  "description": "RSS proxy backend for NewsBreaker Alpha",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
